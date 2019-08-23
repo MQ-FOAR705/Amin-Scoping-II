@@ -1,0 +1,55 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Scoping II: Computational Analysis}
+\author{Jeremy Amin}
+\date{August 2019}
+
+\begin{document}
+
+\maketitle
+
+\section{Goal}
+
+I am focusing specifically on one aspect of my research process, the sifting through multiple documents for the purpose of finding key terms and ideas and then organizing them into a unified narrative. The single solvable problem I am addressing from Scoping 1 is the process of gathering and then sifting through multiple documents with ease. I want to make the computer do as many of the mechanical, computable tasks as possible.
+
+\section{Decomposition}
+
+The process of finding and organising relevant documents goes as follows:
+
+\begin{itemize}
+
+    \item Search for key terms in relevant database
+    \item Read abstracts of top hits
+    \item Download most relevant looking papers based on key words, sentences, and themes
+    \item Place all similar papers into the same folder
+    \item Skim through the most seemingly relevant papers and read the bibliography and references
+    \item Search again, this time based on the referenced names and ideas in the initial batch of downloaded papers
+    \item Repeat the above steps until I have found an acceptable number of relevant papers
+    \item Sort papers into various documents for ease of access
+    \item Read each paper in order of seeming relevance, finding common and unique themes across the set of papers
+    \item Take note of which papers contain which arguments
+\end{itemize}
+
+\section{Pattern Recognition}
+
+The patterns I am going to focus on are:
+
+\begin{itemize}
+    \item Finding specific words and sentences within and across different papers
+    \item Collecting and organizing papers into a single bibliographic database in such a way that I can search for papers based on a theme
+
+\end{itemize}
+
+\section{Algorithm Design}
+
+The algorithm is made up of three chunks:
+
+\begin{itemize}
+    \item Finding key words across multiple papers
+    \item Organizing papers
+    \item Categorizing papers
+
+\end{itemize}
+I wish to have a process of easily accessing multiple kinds of paper on a topic I am interested in in any given moment.
+\end{document}
